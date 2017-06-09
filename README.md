@@ -42,7 +42,7 @@ Please work through these tasks, completing as many as you can in the allotted t
 
 1. Add an interactive control to toggle between Farenheit and Celcius temperatures.
 
-Use your best judgement in designing the user interface. [Here's](./sample.png) a sample of what it might look like.
+Use your best judgement in designing the user interface. [Here's](./example.png) a sample of what it might look like.
 
 
 Your submission will be evaluated on functionality, code quality, and style.
