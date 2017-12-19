@@ -1,0 +1,28 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack -w lib/entry.js lib/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuo-ch/weatherApp.git"
+  },
+  "author": "Zhuo Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuo-ch/weatherApp/issues"
+  },
+  "homepage": "https://github.com/zhuo-ch/weatherApp#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "webpack": "^3.10.0"
+  }
+}
